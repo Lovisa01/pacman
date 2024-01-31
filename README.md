@@ -1,1 +1,3 @@
-# pacman
+# PacMan
+
+It's pacman.
